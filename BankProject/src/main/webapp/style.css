@@ -1,0 +1,25 @@
+@charset "ISO-8859-1";
+body{
+	background-color:#b3b3cc
+}
+p{
+	background-color:green;
+}
+h1{
+	text-align:center;
+	color:green;
+	font-size:14px;
+}
+body{
+	text-align:center;
+}
+button{
+	background-color:green;
+	color:white;
+}
+label{
+	font-size:16px;
+}
+h3{
+	color:red;
+}
